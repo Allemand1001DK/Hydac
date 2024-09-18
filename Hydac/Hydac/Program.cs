@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
             DashPage();
         }
 
@@ -74,7 +73,6 @@
 
             Console.Write("ID: ");
             string idInput = Console.ReadLine();
-            
         }
     }
 }
