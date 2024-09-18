@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Hydac.csproj": {}
+    "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Hydac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Hydac.csproj": {
+    "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Hydac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Hydac.csproj",
+        "projectUniqueName": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Hydac.csproj",
         "projectName": "Hydac",
-        "projectPath": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Hydac.csproj",
-        "packagesPath": "C:\\Users\\alexp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\obj\\",
+        "projectPath": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Hydac.csproj",
+        "packagesPath": "C:\\Users\\Archie Goss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alexp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Archie Goss\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
