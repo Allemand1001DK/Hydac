@@ -11,30 +11,30 @@
         {
             try
             {
-                Console.WriteLine("1. Medarbejder login\n2. Log ind som gæst\n3. Medarbejder logud\n4. Logud som gæst");
+                Console.WriteLine("1. Medarbejder login\n2. Log ind som gæst\n3. Medarbejder logud\n4. Logud som gæst\n5. Log");
                 int input = int.Parse(Console.ReadLine());
                 switch (input)
                 {
                     case 1:
-                        Console.WriteLine("Login medarbejder");
-                    break;
+                        LoginMedarbejder();
+                        break;
                     case 2:
-                        Console.WriteLine("Login gæst");
-                    break;
+                        LoginGæst();
+                        break;
                     case 3:
-                        Console.WriteLine("Logud medarbejder");
-                    break;
+                        LogudMedarbejder();
+                        break;
                     case 4:
-                        Console.WriteLine("Logud gæst");
-                    break;
+                        LogudGæst();
+                        break;
                     case 5:
-                        Console.WriteLine("Log");
-                    break;
+                        OpenLog();
+                        break;
                     default:
                         Console.Clear();
                         Console.WriteLine("Vælg en mulighed!");
                         DashPage();
-                    break;
+                        break;
                 }
             }
             catch (Exception ex)
@@ -44,6 +44,36 @@
                 DashPage();
                 
             }
+        }
+
+        private static void OpenLog()
+        {
+            Console.WriteLine("Log\nKlik for at gå tilbage!");
+        }
+
+        private static void LogudGæst()
+        {
+            Console.WriteLine("Logud gæst");
+        }
+
+        private static void LogudMedarbejder()
+        {
+            Console.WriteLine("Logud medarbejder");
+        }
+
+        private static void LoginGæst()
+        {
+            Console.WriteLine("Login gæst");
+        }
+
+        private static void LoginMedarbejder()
+        {
+            Console.Write("Brugernavn");
+            string username = Console.ReadLine();
+
+            Console.Write("ID: ");
+            string idInput = Console.ReadLine();
+            
         }
     }
 }
