@@ -27,6 +27,9 @@
                     case 4:
                         Console.WriteLine("Logud gæst");
                     break;
+                    case 5:
+                        Console.WriteLine("Log");
+                    break;
                     default:
                         Console.Clear();
                         Console.WriteLine("Vælg en mulighed!");
