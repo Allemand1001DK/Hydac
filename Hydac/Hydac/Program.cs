@@ -73,7 +73,8 @@
 
             Console.Write("ID: ");
             string idInput = Console.ReadLine();
-            
+
+            Console.WriteLine("testc add");
         }
     }
 }
