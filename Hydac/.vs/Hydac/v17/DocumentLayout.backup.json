@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "Hydac\\Program.cs",
               "ToolTip": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Program.cs",
               "RelativeToolTip": "Hydac\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAwAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+>>>>>>> a7528651dca472ac73eaa0ee4b2eddcd9be1ffa0
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T09:29:30.231Z",
               "EditorCaption": ""

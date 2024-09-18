@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\",
+  "WorkspaceRootPath": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\archie goss\\desktop\\hydac\\hydac\\hydac\\hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Program.cs",
               "RelativeDocumentMoniker": "Hydac\\Program.cs",
-              "ToolTip": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Program.cs",
+              "ToolTip": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Program.cs",
               "RelativeToolTip": "Hydac\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAkAAAAAAAAAAAAiwDoAAAAfAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+>>>>>>> a7528651dca472ac73eaa0ee4b2eddcd9be1ffa0
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T09:29:30.231Z",
               "EditorCaption": ""
