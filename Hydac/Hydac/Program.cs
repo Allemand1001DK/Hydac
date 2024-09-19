@@ -53,17 +53,29 @@
 
         private static void LogudGæst()
         {
-            Console.WriteLine("Logud gæst");
+            Console.Write("Navn: ");
+            string username = Console.ReadLine();
+
+            Console.Write("ID: ");
+            int input = int.Parse(Console.ReadLine());
         }
 
         private static void LogudMedarbejder()
         {
-            Console.WriteLine("Logud medarbejder");
+            Console.Write("Navn: ");
+            string username = Console.ReadLine();
+
+            Console.Write("ID: ");
+            int id = int.Parse(Console.ReadLine());
         }
 
         private static void LoginGæst()
         {
-            Console.WriteLine("Login gæst");
+            Console.Write("Navn: ");
+            string name = Console.ReadLine();
+
+            Console.Write("Ansvarlig: ");
+            string ansvarlig = Console.ReadLine();
         }
 
         private static void LoginMedarbejder()
@@ -72,7 +84,7 @@
             string username = Console.ReadLine();
 
             Console.Write("ID: ");
-            string idInput = Console.ReadLine();
+            int idInput = int.Parse(Console.ReadLine());
         }
     }
 }
