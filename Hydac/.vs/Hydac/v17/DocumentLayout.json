@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\archie goss\\desktop\\hydac\\hydac\\hydac\\hydac\\idchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\idchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\archie goss\\desktop\\hydac\\hydac\\hydac\\hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\archie goss\\desktop\\hydac\\hydac\\hydac\\hydac\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IDchecker.cs",
-              "DocumentMoniker": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\IDchecker.cs",
-              "RelativeDocumentMoniker": "Hydac\\IDchecker.cs",
-              "ToolTip": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\IDchecker.cs",
-              "RelativeToolTip": "Hydac\\IDchecker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Personal.cs",
+              "RelativeDocumentMoniker": "Hydac\\Personal.cs",
+              "ToolTip": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Personal.cs",
+              "RelativeToolTip": "Hydac\\Personal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T06:34:23.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Program.cs",
               "RelativeDocumentMoniker": "Hydac\\Program.cs",
               "ToolTip": "C:\\Users\\Archie Goss\\Desktop\\Hydac\\Hydac\\Hydac\\Hydac\\Program.cs",
               "RelativeToolTip": "Hydac\\Program.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDoAAAAfAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
->>>>>>> a7528651dca472ac73eaa0ee4b2eddcd9be1ffa0
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFwAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T09:29:30.231Z",
               "EditorCaption": ""

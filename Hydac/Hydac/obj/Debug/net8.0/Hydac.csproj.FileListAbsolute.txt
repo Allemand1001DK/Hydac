@@ -13,3 +13,18 @@ C:\Users\alexp\Documents\UCL\Hydac\Hydac\Hydac\obj\Debug\net8.0\refint\Hydac.dll
 C:\Users\alexp\Documents\UCL\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.pdb
 C:\Users\alexp\Documents\UCL\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.genruntimeconfig.cache
 C:\Users\alexp\Documents\UCL\Hydac\Hydac\Hydac\obj\Debug\net8.0\ref\Hydac.dll
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\bin\Debug\net8.0\Hydac.exe
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\bin\Debug\net8.0\Hydac.deps.json
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\bin\Debug\net8.0\Hydac.runtimeconfig.json
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\bin\Debug\net8.0\Hydac.dll
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\bin\Debug\net8.0\Hydac.pdb
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.AssemblyInfoInputs.cache
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.AssemblyInfo.cs
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.csproj.CoreCompileInputs.cache
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.sourcelink.json
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.dll
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\refint\Hydac.dll
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.pdb
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\Hydac.genruntimeconfig.cache
+C:\Users\Archie Goss\Desktop\Hydac\Hydac\Hydac\Hydac\obj\Debug\net8.0\ref\Hydac.dll
