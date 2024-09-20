@@ -8,17 +8,31 @@ namespace Hydac
 {
     public class Personal
     {
-        public bool id(string usr, int id)
+        public string getUsr = "";
+        public int getId = 0;
+
+
+        private bool idMedarbejder()
         {
-            if (usr == "Archie" && id == 69420)
+            if (getUsr == "Archie" && getId == 69420)
             {
                 return true;
             }
-            else if (usr == "Alex" && id == 1234)
+            else if (getUsr == "Alex" && getId == 1234)
             {
                 return true;
             }
             else return false;
+        }
+
+        public string Checkpoint()
+        {
+            if (idMedarbejder() == true)
+                return "I.D. Valid";
+            else if (idMedarbejder() == false)
+                return "I.D. not valid";
+            else
+                return "Error";
         }
     }
 }

@@ -85,26 +85,13 @@ namespace Hydac
         {
             Personal check = new Personal();
             Console.Write("Brugernavn: ");
-            string username = Console.ReadLine();
+            check.getUsr = Console.ReadLine();
 
             Console.Write("ID: ");
-            int idInput = int.Parse(Console.ReadLine());
+            check.getId = int.Parse(Console.ReadLine());
 
             // A form for ID checker has been added, check file "Personal" and edit for new workers (temp solution)
-            if (check.id(username, idInput) == true)
-            {
-                Console.WriteLine("I.D. Valid");
-                Console.ReadLine();
-                Console.Clear();
-                DashPage();
-            }
-            else if (check.id(username, idInput) != true)
-            {
-                Console.WriteLine("Error");
-                Console.ReadLine();
-                Console.Clear();
-                DashPage();
-            }
+            Console.WriteLine(check.Checkpoint());
         }
     }
 }
