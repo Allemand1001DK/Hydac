@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\handler\\logouthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\handler\\logouthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\handler\\loginhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\handler\\loginhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\handler\\logouthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\handler\\logouthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\co-worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +31,6 @@
       "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|c:\\users\\alexp\\documents\\ucl\\hydac\\hydac\\hydac\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F70ABE5-B480-412A-A671-A06E8C5E8F42}|Hydac\\Hydac.csproj|solutionrelative:hydac\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LogoutHandler.cs",
               "DocumentMoniker": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Handler\\LogoutHandler.cs",
               "RelativeDocumentMoniker": "Hydac\\Handler\\LogoutHandler.cs",
               "ToolTip": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Handler\\LogoutHandler.cs",
               "RelativeToolTip": "Hydac\\Handler\\LogoutHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T07:17:14.54Z",
               "EditorCaption": ""
@@ -65,14 +65,14 @@
               "RelativeDocumentMoniker": "Hydac\\Handler\\LoginHandling.cs",
               "ToolTip": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Handler\\LoginHandling.cs",
               "RelativeToolTip": "Hydac\\Handler\\LoginHandling.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwCYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T07:13:58.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Guest.cs",
               "DocumentMoniker": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Guest.cs",
               "RelativeDocumentMoniker": "Hydac\\Guest.cs",
@@ -80,12 +80,11 @@
               "RelativeToolTip": "Hydac\\Guest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:58:54.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T06:58:54.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Room.cs",
               "RelativeDocumentMoniker": "Hydac\\Room.cs",
@@ -93,8 +92,7 @@
               "RelativeToolTip": "Hydac\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:58:42.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T06:58:42.839Z"
             },
             {
               "$type": "Document",
@@ -106,12 +104,11 @@
               "RelativeToolTip": "Hydac\\Log.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:58:29.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T06:58:29.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Co-Worker.cs",
               "DocumentMoniker": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Co-Worker.cs",
               "RelativeDocumentMoniker": "Hydac\\Co-Worker.cs",
@@ -119,12 +116,11 @@
               "RelativeToolTip": "Hydac\\Co-Worker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:58:21.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T06:58:21.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Person.cs",
               "RelativeDocumentMoniker": "Hydac\\Person.cs",
@@ -132,18 +128,17 @@
               "RelativeToolTip": "Hydac\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T06:34:23.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T06:34:23.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Program.cs",
               "RelativeDocumentMoniker": "Hydac\\Program.cs",
               "ToolTip": "C:\\Users\\alexp\\Documents\\UCL\\Hydac\\Hydac\\Hydac\\Program.cs",
               "RelativeToolTip": "Hydac\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAowA4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T09:29:30.231Z",
               "EditorCaption": ""

@@ -53,6 +53,9 @@ namespace Hydac
         private static void OpenLog()
         {
             Console.WriteLine("Log\nKlik for at gå tilbage!");
+            Console.ReadKey();
+            Console.Clear();
+            DashPage();
         }
 
         
