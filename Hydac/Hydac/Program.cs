@@ -1,16 +1,18 @@
-﻿using Hydac;
+﻿using Hydac.Handler;
 using System.ComponentModel.Design;
 
 namespace Hydac
 {
-    internal class Program
+    internal class Program : LoginHandling
     {
+        LoginHandling loginUser = new LoginHandling();
+        LogoutHandler LogoutUser = new LogoutHandler();
         static void Main(string[] args)
         {
             DashPage();
         }
 
-        private static void DashPage()
+        public static void DashPage()
         {
             try
             {
@@ -19,16 +21,16 @@ namespace Hydac
                 switch (input)
                 {
                     case 1:
-                        LoginMedarbejder();
+                        LoginHandling.LoginMedarbejder();
                         break;
                     case 2:
-                        LoginGæst();
+                        LoginHandling.LoginGæst();
                         break;
                     case 3:
-                        LogudMedarbejder();
+                        LogoutHandler.LogudMedarbejder();
                         break;
                     case 4:
-                        LogudGæst();
+                        LogoutHandler.LogudGæst();
                         break;
                     case 5:
                         OpenLog();
@@ -45,7 +47,7 @@ namespace Hydac
                 Console.WriteLine("Du skal vælge en af mulighederne");
                 Console.Clear();
                 DashPage();
-                
+
             }
         }
 
@@ -54,44 +56,6 @@ namespace Hydac
             Console.WriteLine("Log\nKlik for at gå tilbage!");
         }
 
-        private static void LogudGæst()
-        {
-            Console.Write("Navn: ");
-            string username = Console.ReadLine();
-
-            Console.Write("ID: ");
-            int input = int.Parse(Console.ReadLine());
-        }
-
-        private static void LogudMedarbejder()
-        {
-            Console.Write("Navn: ");
-            string username = Console.ReadLine();
-
-            Console.Write("ID: ");
-            int id = int.Parse(Console.ReadLine());
-        }
-
-        private static void LoginGæst()
-        {
-            Console.Write("Navn: ");
-            string name = Console.ReadLine();
-
-            Console.Write("Ansvarlig: ");
-            string ansvarlig = Console.ReadLine();
-        }
-
-        private static void LoginMedarbejder()
-        {
-            Personal check = new Personal();
-            Console.Write("Brugernavn: ");
-            check.getUsr = Console.ReadLine();
-
-            Console.Write("ID: ");
-            check.getId = int.Parse(Console.ReadLine());
-
-            // A form for ID checker has been added, check file "Personal" and edit for new workers (temp solution)
-            Console.WriteLine(check.Checkpoint());
-        }
+        
     }
 }
