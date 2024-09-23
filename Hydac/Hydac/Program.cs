@@ -44,7 +44,6 @@ namespace Hydac
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Du skal vælge en af mulighederne");
                 Console.Clear();
                 DashPage();
 

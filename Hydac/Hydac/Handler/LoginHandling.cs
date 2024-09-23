@@ -12,7 +12,7 @@
             Console.Write("Navn: ");
             string navn = Console.ReadLine();
 
-            Console.Write("Ansvarlig: ");
+            Console.Write("Ansvarligs navn: ");
             string Accountable = Console.ReadLine();
 
             Console.WriteLine("Login velykket! Klik for at forsætte");
