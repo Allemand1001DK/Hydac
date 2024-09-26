@@ -20,7 +20,7 @@ namespace Hydac.Handler
             Console.ReadKey();
 
             Console.Clear();
-            Program.DashPage();
+            UI.DashPage();
         }
 
         public static void LogudMedarbejder()
@@ -35,7 +35,7 @@ namespace Hydac.Handler
             Console.ReadKey();
 
             Console.Clear();
-            Program.DashPage();
+            UI.DashPage();
         }
     }
 }

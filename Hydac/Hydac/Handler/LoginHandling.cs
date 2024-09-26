@@ -19,7 +19,7 @@
             Console.ReadKey();
 
             Console.Clear();
-            Program.DashPage();
+            UI.DashPage();
         }
 
         public static void LoginMedarbejder()
@@ -36,7 +36,7 @@
             Console.ReadKey();
 
             Console.Clear();
-            Program.DashPage();
+            UI.DashPage();
 
         }
     }
