@@ -54,7 +54,7 @@ namespace Hydac
         {
             Console.WriteLine("Log\nKlik for at gå tilbage!");
             Console.ReadKey();
-            Console.Clear();
+            Console.Clear();    
             DashPage();
         }
 
